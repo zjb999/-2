@@ -1,0 +1,24 @@
+{
+  "name": "gitceshi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjb999/-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjb999/-2/issues"
+  },
+  "homepage": "https://github.com/zjb999/-2#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
+}
